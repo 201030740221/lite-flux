@@ -1,0 +1,24 @@
+{
+  "name": "lite-flux",
+  "version": "0.1.3",
+  "description": "A small flux library for react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thewei/lite-flux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewei/lite-flux/issues"
+  },
+  "homepage": "https://github.com/thewei/lite-flux",
+  "devDependencies": {
+    "karma-webpack-extend": "0.0.6",
+    "react": "^0.13.2",
+    "expect": "^1.6.0"
+  }
+}
